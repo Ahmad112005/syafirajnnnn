@@ -1,0 +1,11 @@
+<Item>dlcpacks:\mig29a\</Item>
+<Item>dlcpacks:\s32\</Item>
+<Item>dlcpacks:\f15s\</Item>
+<Item>dlcpacks:\b21raider\</Item>
+<Item>dlcpacks:\fa18f1\</Item>
+
+<Item>dlcpacks:/mig29a/</Item>
+<Item>dlcpacks:/s32/</Item>
+<Item>dlcpacks:/f15s/</Item>
+<Item>dlcpacks:/b21raider/</Item>
+<Item>dlcpacks:/fa18f1/</Item>
